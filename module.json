@@ -1,0 +1,8 @@
+{
+    "disableAutoUpdate": false,
+    "name": "broker-anywhere",
+    "author": "Tsunpot",
+    "description": "kinda self explanitory.",
+    "supportUrl": "https://github.com/tsunpot/broker-anywhere",
+    "servers": ["https://raw.githubusercontent.com/tsunpot/broker-anywhere/master/"]
+}
